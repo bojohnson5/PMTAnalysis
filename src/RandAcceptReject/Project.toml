@@ -1,0 +1,4 @@
+name = "RandAcceptReject"
+uuid = "088d1eae-a8d6-4b88-85c4-a8363a5c8820"
+authors = ["Bo Johnson <bojohn@h1.carbonate.uits.iu.edu>"]
+version = "0.1.0"

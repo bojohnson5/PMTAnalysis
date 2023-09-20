@@ -1,0 +1,4 @@
+name = "WaveDump"
+uuid = "5554e4cf-e5eb-47b1-9330-000e4631da42"
+authors = ["Bo Johnson <bojohn@h1.carbonate.uits.iu.edu>"]
+version = "0.1.0"

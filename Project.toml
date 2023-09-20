@@ -1,0 +1,27 @@
+name = "PMTAnalysis"
+
+[deps]
+BlackBoxOptim = "a134a8b2-14d6-55f6-9291-3336d3ab0209"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+CodecZlib = "944b1d66-785c-5afd-91f1-9de20f533193"
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
+FHist = "68837c9b-b678-4cd5-9925-8a54edc8f695"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+LocalPoly = "c0c96f75-fb1e-4a0c-bd73-67714f26b91d"
+Loess = "4345ca2d-374a-55d4-8d30-97f9976e7612"
+LsqFit = "2fda8390-95c7-5789-9bda-21331edee243"
+Measurements = "eff96d63-e80a-5855-80a2-b1b0885c5ab7"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+PhysicalConstants = "5ad8b20f-a522-5ce9-bfc9-ddf1d5bda6ab"
+RandAcceptReject = "088d1eae-a8d6-4b88-85c4-a8363a5c8820"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+WaveDump = "5554e4cf-e5eb-47b1-9330-000e4631da42"
+
+[compat]
+DrWatson = "2.12.7"
+julia = "1.9.2"
